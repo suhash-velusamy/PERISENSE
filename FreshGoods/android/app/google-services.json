@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236682373988",
+    "project_id": "freshgoods-2c801",
+    "storage_bucket": "freshgoods-2c801.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236682373988:android:ff1c28ba9a3b914a96e871",
+        "android_client_info": {
+          "package_name": "com.tharun.freshgoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHkEjTZZzpc6O-T9uX2a7Gat1QqHlGQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "FreshGoods",
+    "slug": "FreshGoods",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "package": "com.tharun.freshgoods"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b978b1fe-2b2b-4c24-9098-dbd0da684279"
+      }
+    },
+    "owner": "NITHEESH S"
+  }
+}
